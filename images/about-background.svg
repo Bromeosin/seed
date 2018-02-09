@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="600px" viewBox="0 0 1440 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Background</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#2B2D40" x="0" y="0" width="1440" height="600"></rect>
+        <g id="Group-3" transform="translate(1088.000000, 300.000000) rotate(-45.000000) translate(-1088.000000, -300.000000) translate(931.000000, 143.000000)" fill="#324F75">
+            <rect id="Rectangle" x="94" y="0" width="125" height="314" rx="4"></rect>
+            <rect id="Rectangle" transform="translate(157.000000, 157.500000) rotate(-90.000000) translate(-157.000000, -157.500000) " x="94.5" y="0.5" width="125" height="314" rx="4"></rect>
+        </g>
+    </g>
+</svg>

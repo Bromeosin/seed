@@ -1,0 +1,262 @@
+.nav {
+  background-color: $blue-dark;
+  display: block;
+  width: 100%;
+  z-index: 99;
+  opacity: 1;
+  top: 0;
+  position: fixed;
+}
+
+.nav-logo {
+  list-style: none;
+  margin: 0;
+  float: left;
+  margin-top: 1.8rem;
+  z-index: 20;
+}
+
+.navbar-list {
+  list-style: none;
+  margin-bottom: 0;
+  color: #f7fff7;
+  float: right;
+}
+
+.navbar-item {
+  position: relative;
+  float: left;
+  margin-bottom: 0;
+  margin-right: 4rem;
+  padding-top: 2.5rem;
+  padding-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.navbar-item a {
+  text-decoration: none;
+  color: $off-white;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.navbar-button {
+  position: relative;
+  float: left;
+  margin-bottom: 0;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.footer-item {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-right: 2rem;
+  cursor: pointer;
+  margin-bottom: 0;
+}
+
+@media (max-width: $middle) {
+  .nav-logo {
+    padding-bottom: 2.5rem;
+  }
+
+  .navbar-item {
+    float: right;
+    margin-right: 0;
+    font-size: 1.4em;
+
+  }
+  .navbar-list {
+    display: none;
+  }
+}
+@media (min-width: $middle) {
+  .button_container {
+    display: none;
+  }
+}
+
+
+
+
+
+$button-height: 27px;
+$button-width: 35px;
+
+.button_container {
+  position: fixed;
+  margin-top: 2.7rem;
+  right: 5%;
+  height: $button-height;
+  width: $button-width;
+  cursor: pointer;
+  z-index: 100;
+  transition: opacity .25s ease;
+
+  &:hover {
+    opacity: .9;
+    .top {
+      width: 100%;
+    }
+    .middle {
+      width: 100%;
+    }
+
+    .bottom {
+      width: 100%;
+    }
+  }
+
+  &.active {
+    .top {
+      transform: translateY(11px) translateX(0) rotate(45deg);
+      background: $cta;
+    }
+    .middle {
+      opacity: 0;
+      width: 0%;
+      background: white;
+    }
+
+    .bottom {
+      transform: translateY(-11px) translateX(0) rotate(-45deg);
+      background: $cta;
+      width: 100%;
+    }
+  }
+
+  span {
+  background: white;
+  border: none;
+  height: 4px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition:  all .35s ease;
+  cursor: pointer;
+  stroke-linecap: round;
+
+    &:nth-of-type(2) {
+      top: 11px;
+      width: 80%;
+    }
+
+    &:nth-of-type(3) {
+      top: 22px;
+      width: 60%;
+    }
+  }
+
+  span:hover {
+    span:hover:nth-of-type(2) {
+      width: 100%;
+    }
+    span:hover:nth-of-type(3) {
+      width: 100%;
+    }
+  }
+}
+
+.overlay {
+  position: fixed;
+  background: $blue-dark;
+  top: 0;
+  right: 0;
+  width: 0%;
+  height: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .35s, visibility .35s, width .35s ease-out;
+  overflow: hidden;
+  z-index: -10;
+
+  .button {
+    margin-bottom: 0rem;
+  }
+
+  &.open {
+    opacity: 1;
+    visibility: visible;
+    width: 100%;
+
+    li {
+      animation: fadeInRight .8s ease forwards;
+      animation-delay: .40s;
+      font-size: 3rem;
+
+      &:nth-of-type(2) {
+        animation-delay: .45s;
+      }
+      &:nth-of-type(3) {
+        animation-delay: .50s;
+      }
+      &:nth-of-type(4) {
+        animation-delay: .55s;
+        margin-bottom: 0rem;
+        font-size: null;
+      }
+
+    }
+  }
+  nav {
+    position: relative;
+    height: 70%;
+    top: 50%;
+    transform: translateY(-25%);
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+  }
+
+.navbar-button {
+  padding-top: 0rem;
+
+}
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+
+
+    li {
+      display: block;
+      margin-bottom: 4rem;
+      position: relative;
+      opacity: 0;
+      text-align: center;
+
+      a {
+        position: relative;
+        color: white;
+        text-decoration: none;
+        overflow: hidden;
+
+        &:hover:after,
+         &:focus:after,
+         &:active:after {
+           width: 100%;
+         }
+
+      }
+    }
+  }
+}
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    left: 30%;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
+}

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Billy's Test</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="https://use.typekit.net/mfp1zig.css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="js/base.js"></script>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- jQuery
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+
+
+  <script type="text/javascript" src="javascript/jquery-1.3.2.min.js">
+
+  /*
+   * Replace all SVG images with inline SVG
+   */
+      jQuery('img.svg').each(function(){
+          var $img = jQuery(this);
+          var imgID = $img.attr('id');
+          var imgClass = $img.attr('class');
+          var imgURL = $img.attr('src');
+
+          jQuery.get(imgURL, function(data) {
+              // Get the SVG tag, ignore the rest
+              var $svg = jQuery(data).find('svg');
+
+              // Add replaced image's ID to the new SVG
+              if(typeof imgID !== 'undefined') {
+                  $svg = $svg.attr('id', imgID);
+              }
+              // Add replaced image's classes to the new SVG
+              if(typeof imgClass !== 'undefined') {
+                  $svg = $svg.attr('class', imgClass+' replaced-svg');
+              }
+
+              // Remove any invalid XML tags as per http://validator.w3.org
+              $svg = $svg.removeAttr('xmlns:a');
+
+              // Replace image with new SVG
+              $img.replaceWith($svg);
+
+          }, 'xml');
+
+      });
+
+</script>
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Navigation Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <div class="nav">
+    <div class="container">
+    <a href="home.html"><img class="nav-logo" alt="Seed Academy Logo" title="Seed Publicity Logo" src="images/logo.png" width="100" height="auto" ></a>
+      <ul class="navbar-list">
+        <li class="navbar-item"><a href="about.html">Our Team</a></li>
+        <li class="navbar-item"><a>Our Services</a></li>
+        <li class="navbar-item"><a>Our Results</a></li>
+        <li class="navbar-button"><a href="mailto:hello@seedpublicity.co.uk" class="button button-primary">contact us</a><li>
+      </ul>
+      <div class="button_container" id="toggle"><span class="top"></span><span class="middle"></span><span class="bottom"></span></div>
+    <div class="overlay" id="overlay">
+      <nav class="overlay-menu">
+        <ul>
+          <li><a href="about.html">Our Team</a></li>
+          <li><a href="#">Our Services</a></li>
+          <li><a href="#">Our Results</a></li>
+          <li><a href="mailto:hello@seedpublicity.co.uk" class="button button-primary">contact us</a></li>
+        </ul>
+      </nav>
+    </div>
+    </div>
+  </div>
+
+  <!-- Quote
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="row quote light">
+  <div class="container">
+      <div class="one-half column">
+        <h3>We deliver top results with better, more meaningful SEO and PPC campaigns.</h3>
+      </div>
+      <div class="one-half column">
+        <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+        <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+      </div>
+  </div>
+</div>
+
+<!-- Center Title Half Content
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="row title-half dark">
+  <div class="container">
+      <div class="twelve columns title">
+        <h3>Search Engine Marketing</h3>
+      </div>
+  </div>
+  <div class="container">
+      <div class="one-half column">
+        <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      </div>
+      <div class="one-half column">
+        <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+        <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+      </div>
+    </div>
+</div>
+
+<!-- Client List
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="row client-list light">
+  <div class="container">
+    <div class="one-half column">
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+      <div class="one-half column client-grid">
+        <div class="container gridlet">
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+        </div>
+        <div class="container gridlet">
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes.png"/>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- Client List with Title
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="row client-list dark">
+  <div class="container">
+      <div class="twelve columns title">
+        <h3>Search Engine Marketing</h3>
+      </div>
+  </div>
+  <div class="container">
+    <div class="one-half column">
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+      <div class="one-half column client-grid">
+        <div class="container gridlet">
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+        </div>
+        <div class="container gridlet">
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+          <div class="three columns">
+            <img src="images/forbes-white.png"/>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<!-- Half & Half
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div class="clearing">
+<div class="row half dark">
+  <div class="container">
+    <div class="twelve columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+  </div>
+</div>
+<div class="row half light">
+  <div class="container">
+    <div class="twelve columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+  </div>
+</div>
+</div>
+<div class="clearing">
+<div class="row half light">
+  <div class="container">
+    <div class="twelve columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+  </div>
+</div>
+<div class="row half dark">
+  <div class="container">
+    <div class="twelve columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Half Content (no background fill)
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div class="row dark">
+  <div class="container">
+    <div class="six columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+    <div class="six columns">
+      <h3>Search Engine Marketing</h3>
+      <p>Hello, we're Seed – a <b>digital marketing agency</b> based in Brighton, specialising in driving high-quality traffic and converting more visitors into lifelong customers.</p>
+      <a class="link-cta" href="">Read More <span class="read-more">></span></a>
+    </div>
+  </div>
+</div>
+
+<!-- Thirds Results Rotation
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+<div class="row dark">
+  <div class="container">
+      <div class="twelve columns title">
+        <h3>Search Engine Marketing</h3>
+      </div>
+  </div>
+  <div class="container">
+    <div class="four columns">
+      <svg class="circle-animation" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <circle class="external-circle" cx="60" cy="60" r="50">
+        </circle>
+      </svg>
+    </div>
+    <div class="four columns">
+      <svg class="circle-animation" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <circle class="external-circle" cx="60" cy="60" r="50">
+        </circle>
+      </svg>
+    </div>
+    <div class="four columns">
+      <svg class="circle-animation" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <circle class="external-circle" cx="60" cy="60" r="50">
+        </circle>
+      </svg>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Client List
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="row client-list light">
+    <div class="container">
+      <div class="one-half column">
+        <h2>We're <b>Seed</b>, a superstar digital marketing agency based in Brighton, Sussex and London.</h2>
+      </div>
+        <div class="one-half column client-grid">
+          <div class="container gridlet">
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+          </div>
+          <div class="container gridlet">
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+          </div>
+          <div class="container gridlet">
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+          </div>
+          <div class="container gridlet">
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+            <div class="three columns">
+              <img src="https://s3.amazonaws.com/freebiesupply/large/2x/forbes-logo-black-transparent.png"/>
+            </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

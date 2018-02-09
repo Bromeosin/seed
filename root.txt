@@ -1,0 +1,2 @@
+
+cd /users/nick/documents/Websites/2018-website/wp-content/themes/seed-theme-18

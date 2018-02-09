@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200px" height="800px" viewBox="0 0 1200 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Background Block</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Block">
+            <path d="M229.381055,150.029007 L233.314941,156.466275 C233.890919,157.408785 233.593787,158.639761 232.651278,159.215739 C232.337262,159.407638 231.976387,159.509175 231.608378,159.509175 L223.740605,159.509175 C222.636036,159.509175 221.740605,158.613745 221.740605,157.509175 C221.740605,157.141166 221.842143,156.780291 222.034042,156.466275 L225.967928,150.029007 C226.543906,149.086498 227.774882,148.789366 228.717392,149.365343 C228.988123,149.530791 229.215608,149.758275 229.381055,150.029007 Z" id="Dark-Triangle" fill="#007991" transform="translate(227.674492, 153.372812) rotate(36.000000) translate(-227.674492, -153.372812) "></path>
+            <path d="M487.206564,683.792559 L491.14045,690.229827 C491.716428,691.172336 491.419295,692.403313 490.476786,692.979291 C490.162771,693.17119 489.801896,693.272727 489.433886,693.272727 L481.566114,693.272727 C480.461544,693.272727 479.566114,692.377297 479.566114,691.272727 C479.566114,690.904718 479.667651,690.543843 479.85955,690.229827 L483.793436,683.792559 C484.369414,682.85005 485.600391,682.552917 486.5429,683.128895 C486.813632,683.294342 487.041116,683.521827 487.206564,683.792559 Z" id="Green-Triangle" fill="#65CAC5"></path>
+            <path d="M341.24118,742.659252 L345.175066,749.09652 C345.751044,750.039029 345.453911,751.270006 344.511402,751.845984 C344.197386,752.037883 343.836512,752.13942 343.468502,752.13942 L335.60073,752.13942 C334.49616,752.13942 333.60073,751.24399 333.60073,750.13942 C333.60073,749.771411 333.702267,749.410536 333.894166,749.09652 L337.828052,742.659252 C338.40403,741.716743 339.635007,741.41961 340.577516,741.995588 C340.848248,742.161035 341.075732,742.38852 341.24118,742.659252 Z" id="Rectangle-4" fill="#66B6AB" transform="translate(339.534616, 746.003057) rotate(29.000000) translate(-339.534616, -746.003057) "></path>
+            <g id="Cross" transform="translate(277.000000, 303.000000)" stroke="#979797" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <path d="M288.24118,528.659252 L292.175066,535.09652 C292.751044,536.039029 292.453911,537.270006 291.511402,537.845984 C291.197386,538.037883 290.836512,538.13942 290.468502,538.13942 L282.60073,538.13942 C281.49616,538.13942 280.60073,537.24399 280.60073,536.13942 C280.60073,535.771411 280.702267,535.410536 280.894166,535.09652 L284.828052,528.659252 C285.40403,527.716743 286.635007,527.41961 287.577516,527.995588 C287.848248,528.161035 288.075732,528.38852 288.24118,528.659252 Z" id="Rectangle-4" fill="#66B6AB" transform="translate(286.534616, 532.003057) rotate(29.000000) translate(-286.534616, -532.003057) "></path>
+            <g id="Cross" transform="translate(60.000000, 245.000000)" stroke="#66B6AB" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <g id="Cross" transform="translate(642.000000, 733.000000)" stroke="#65CAC5" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <g id="Cross" transform="translate(54.303301, 528.303301) rotate(45.000000) translate(-54.303301, -528.303301) translate(50.803301, 524.303301)" stroke="#979797" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <g id="Cross" transform="translate(403.303301, 104.303301) rotate(45.000000) translate(-403.303301, -104.303301) translate(399.803301, 100.303301)" stroke="#66B6AB" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <g id="Cross" transform="translate(170.303301, 698.303301) rotate(45.000000) translate(-170.303301, -698.303301) translate(166.803301, 694.303301)" stroke="#65CAC5" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <g id="Cross" transform="translate(392.303301, 451.303301) rotate(45.000000) translate(-392.303301, -451.303301) translate(388.803301, 447.303301)" stroke="#007991" stroke-linecap="round" stroke-width="4">
+                <path d="M0,0 L6.747692,7.38028812" id="Line"></path>
+                <path d="M0,0 L6.747692,7.38028812" id="Line" transform="translate(3.373846, 3.690144) scale(-1, 1) translate(-3.373846, -3.690144) "></path>
+            </g>
+            <circle id="Oval" fill="#65CAC5" cx="62.5" cy="797.5" r="2.5"></circle>
+            <circle id="Oval" fill="#007991" cx="134.5" cy="580.5" r="2.5"></circle>
+            <circle id="Oval" fill="#66B6AB" cx="395.5" cy="313.5" r="2.5"></circle>
+            <circle id="Oval" fill="#66B6AB" cx="127" cy="395" r="5"></circle>
+            <circle id="Oval" fill="#65CAC5" cx="65" cy="60" r="5"></circle>
+            <circle id="Oval" fill="#007991" cx="654" cy="199" r="5"></circle>
+            <circle id="Oval" stroke="#007991" stroke-width="2" cx="493.5" cy="255.5" r="2.5"></circle>
+            <circle id="Oval" stroke="#66B6AB" stroke-width="2" cx="539.5" cy="96.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>
