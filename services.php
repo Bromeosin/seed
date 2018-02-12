@@ -33,19 +33,19 @@
       </div>
       <div class="container service-list">
         <div class="one-third column service-block">
-          <a href="/services/seo/"><img src="/wp-content/themes/seed-theme-18/images/seo.svg" width="100px" height="100px"></a>
+          <a href="/services/seo/"><img src="/wp-content/themes/seed/images/seo.svg" width="100px" height="100px"></a>
           <a href="/services/seo/"><h5><b>Search Engine Marketing</b></h5></a>
           <p>Your customers are searching – we help them find your business. Get found online with our unrivalled SEO services.</p>
           <a href="/services/seo/" class="button button-primary">Learn more</a>
         </div>
         <div class="one-third column service-block">
-          <a href="/services/ppc/"><img src="/wp-content/themes/seed-theme-18/images/ppc.svg" width="100px" height="100px"></a>
+          <a href="/services/ppc/"><img src="/wp-content/themes/seed/images/ppc.svg" width="100px" height="100px"></a>
           <a href="/services/ppc/"><h5><b>Pay Per Click</b></h5></a>
           <p>We offer a super-targeted approach to PPC, designed to maximise conversions and minimise budget wastage.</p>
           <a href="/services/ppc/" class="button button-primary">Learn more</a>
         </div>
         <div class="one-third column service-block">
-          <a href="/services/social/"><img src="/wp-content/themes/seed-theme-18/images/social.svg" width="100px" height="100px"></a>
+          <a href="/services/social/"><img src="/wp-content/themes/seed/images/social.svg" width="100px" height="100px"></a>
           <a href="/services/social/"><h5><b>Social Media Advertising</b></h5></a>
           <p>Maximise your brand's reach with your audience, driving engagements and ROI for your business.</p>
           <a href="/services/social/" class="button button-primary">Learn more</a>
@@ -80,7 +80,7 @@
         </div>
       </div>
       <div class="one-half column">
-        <img class="space" src="/wp-content/themes/seed-theme-18/images/growing-seed.png" width="100%" height="auto">
+        <img class="space" src="/wp-content/themes/seed/images/growing-seed.png" width="100%" height="auto">
         <div class="white-box space">
           <h3>How we'll work together</h3>
           <p>Our role is to achieve maximum impact for businesses online by maximising visibility, enhancing engagements and driving quality traffic that converts more of your visitors into valuable customers.</p>

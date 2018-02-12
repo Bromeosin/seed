@@ -45,34 +45,34 @@
       </div>
        <div class="container top-space space">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/keyword-research.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/keyword-research.svg" width="100px" height="100px">
            <h5><b>Keyword Research</b></h5>
            <p>We find out what your customers are asking Google and design a strategy that targets keywords that will deliver users with intent to purchase.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/audit.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/audit.svg" width="100px" height="100px">
            <h5><b>Technical SEO Audits</b></h5>
            <p>We begin every project with a deep technical SEO audit. Technical SEO is a bit of an art, and we believe our technical SEO recipe is the best in town.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/onsite.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/onsite.svg" width="100px" height="100px">
            <h5><b>Onsite SEO Optimisation</b></h5>
            <p>We turn good SEO content into great SEO content. Indexed pages offer an enormous amount of SEO value – it’s our job to make the most of them.</p>
          </div>
        </div>
        <div class="container service-list">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/linkbuilding.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/linkbuilding.svg" width="100px" height="100px">
            <h5><b>Outreach & Link Building</b></h5>
            <p>Using content marketing, social media promotion and digital PR, we propel your brand into the spotlight and in-front of a relevant audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/strategy.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/strategy.svg" width="100px" height="100px">
            <h5><b>Local SEO Optimisation</b></h5>
            <p>Local SEO is focused on driving relevant customers to your website from targeted localised search queries that relate to your business.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/content.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/content.svg" width="100px" height="100px">
            <h5><b>Onpage SEO Copywriting</b></h5>
            <p>We create new pages and make sure that your website has the best chance of converting your visitors into a happy, fulfilled customers.</p>
          </div>
@@ -93,7 +93,7 @@
             <div class="white-box space">
               <p><b>Need help breaking onto the first page of Google?</b><br> Just pop us a quick <i class="far fa-envelope-open"></i> to <a href="mailto:hello@seedpublicity.co.uk">hello@seedpublicity.co.uk</a></p>
             </div>
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/seo-work.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/seo-work.png" width="100%" height="auto">
             <div class="white-box">
               <h3>Our SEO Approach</h3>
               <p>Primarily, we’re passionate about understanding how your business works, who your customers are and how your website performs in organic search. Gaining this insight allows us to develop a completely bespoke SEO solution that’s right for you and your business.</p>
@@ -103,7 +103,7 @@
             </div>
           </div>
           <div class="one-half column">
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/growing-seed.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/growing-seed.png" width="100%" height="auto">
             <div class="white-box space">
               <h3>How will your business benefit from working with us?</h3>
               <p><b>Search Engine Optimisation</b> is the process of improving your website’s visibility in search engines like Google. As your SEO agency, our role would be to increase your website's keyword rankings for keywords that commonly get used your customers use to find your business in search engines.</p>
@@ -112,7 +112,7 @@
               <p>But SEO is worth the investment – time and time again we've seen SEO become the leading marketing channel for driving revenue and new customer acquesitions.</p>
               <p>Google gets <b>3.5 billion searches</b> per day. <b>95%</b> of consumers purchase goods online. <b>93%</b> of all online experiences begin with a search engine. <b>80%</b> of those searchers don’t scroll past the first page and <b>85%</b> use search engines to find local businesses.</p>
             </div>
-            <img src="/wp-content/themes/seed-theme-18/images/billy-2.png" width="100%" height="auto">
+            <img src="/wp-content/themes/seed/images/billy-2.png" width="100%" height="auto">
           </div>
         </div>
       </div>

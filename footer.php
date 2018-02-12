@@ -44,10 +44,10 @@
   <div class="container">
     <div class="one-half column">
       <ul class="space">
-        <a href="https://plus.google.com/113412917142531749080"><li class="footer-item"><img src="/wp-content/themes/seed-theme-18/images/Google+.svg" width="100%" height="auto" alt="Google Plus Logo"></li></a>
-        <a href="https://www.facebook.com/seedpublicity/"><li class="footer-item"><img src="/wp-content/themes/seed-theme-18/images/Facebook.svg" width="100%" height="auto" alt="Facebook Logo"></li></a>
-        <a href="https://twitter.com/seedpublicity"><li class="footer-item"><img src="/wp-content/themes/seed-theme-18/images/Twitter.svg" width="100%" height="auto" alt="Twitter Logo"></li></a>
-        <a href="https://www.instagram.com/seedbrighton/"><li class="footer-item"><img src="/wp-content/themes/seed-theme-18/images/Instagram.svg" width="100%" height="auto" alt="Instagram Logo"></li></a>
+        <a href="https://plus.google.com/113412917142531749080"><li class="footer-item"><img src="/wp-content/themes/seed/images/Google+.svg" width="100%" height="auto" alt="Google Plus Logo"></li></a>
+        <a href="https://www.facebook.com/seedpublicity/"><li class="footer-item"><img src="/wp-content/themes/seed/images/Facebook.svg" width="100%" height="auto" alt="Facebook Logo"></li></a>
+        <a href="https://twitter.com/seedpublicity"><li class="footer-item"><img src="/wp-content/themes/seed/images/Twitter.svg" width="100%" height="auto" alt="Twitter Logo"></li></a>
+        <a href="https://www.instagram.com/seedbrighton/"><li class="footer-item"><img src="/wp-content/themes/seed/images/Instagram.svg" width="100%" height="auto" alt="Instagram Logo"></li></a>
       </ul>
       <br>
       <p style="float: left;font-size: 1.4rem; font-weight: 200;">Made with <i class="fas fa-heart"></i> by Seed.</p>

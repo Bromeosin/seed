@@ -1,5 +1,5 @@
 {
-  "name": "seed-theme-18",
+  "name": "seed",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bromeosin/seed-theme-18.git"
+    "url": "git+https://github.com/Bromeosin/seed.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bromeosin/seed-theme-18/issues"
+    "url": "https://github.com/Bromeosin/seed/issues"
   },
-  "homepage": "https://github.com/Bromeosin/seed-theme-18#readme",
+  "homepage": "https://github.com/Bromeosin/seed#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"

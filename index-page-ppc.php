@@ -51,7 +51,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <!--isotope here...-->
-  <script src="/wp-content/themes/seed-theme-18/js/isotope.pkgd.min.js"></script>
+  <script src="/wp-content/themes/seed/js/isotope.pkgd.min.js"></script>
   <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
   <!--Custom Js file here ... -->
   <script type="text/javascript">

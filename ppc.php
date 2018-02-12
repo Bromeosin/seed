@@ -45,34 +45,34 @@
        </div>
        <div class="container top-space space service-list">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/adwords-logo.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/adwords-logo.svg" width="100px" height="100px">
            <h5><b>Google AdWords Management</b></h5>
            <p>We use Google Search, Display, Gmail, YouTube ads to generate awareness to a highly targeted, relevant audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/bing-ads-logo.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/bing-ads-logo.svg" width="100px" height="100px">
            <h5><b>Bing Ads Management</b></h5>
            <p>We use Bing Search and remarketing ads to generate awareness to a highly targeted, relevant audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/google-shopping-logo.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/google-shopping-logo.svg" width="100px" height="100px">
            <h5><b>Google Shopping (PLAs)</b></h5>
            <p>If you run an eCommerce site, Google Shopping is an absolute must. Our campaigns run at 3,000% ROI on average, you can't afford to miss out!</p>
          </div>
        </div>
        <div class="container service-list">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/display-ads.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/display-ads.svg" width="100px" height="100px">
            <h5><b>Display Advertising</b></h5>
            <p>Generate brand awareness through Google’s display network and only pay when someone clicks your ads.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/remarketing.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/remarketing.svg" width="100px" height="100px">
            <h5><b>ReMarketing Ads</b></h5>
            <p>Bring back lost conversions and drive brand new acquisitions at lower costs than other marketing channels.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/data-insight.svg" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/data-insight.svg" width="100px" height="100px">
            <h5><b>Google Analytics Insights</b></h5>
            <p>Get clarity on which keywords, ad campaigns and landing pages are converting the best - we'll use these insights to fuel your growth.</p>
          </div>
@@ -94,7 +94,7 @@
             <div class="white-box space">
               <p><b>Want to know how PPC can transform your business?</b><br> Just pop us a quick <i class="far fa-envelope-open"></i> to <a href="mailto:hello@seedpublicity.co.uk">hello@seedpublicity.co.uk</a></p>
             </div>
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/robin-ppc.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/robin-ppc.png" width="100%" height="auto">
             <div class="white-box">
               <h3>Our PPC Approach</h3>
               <p>Paid Search is measurable and scalable, meaning we can demonstrate its effectiveness and great potential for growing your business both quickly and sustainably.</p>
@@ -103,7 +103,7 @@
             </div>
           </div>
           <div class="one-half column">
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/growing-seed.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/growing-seed.png" width="100%" height="auto">
             <div class="white-box space">
               <h3>Work with our PPC specialists</h3>
               <p>For us, a great PPC strategy is founded on the principal of only spending where your ad spend will be returned into profitable income for your business.</p>
@@ -111,7 +111,7 @@
               <p>We pick the right keywords, we create the right ads and target the right audience.</p>
               <p>Yes, it's that simple! From auditing your AdWords account for quick wins through to designing and implementing comprehensive PPC strategies for your brand, we hit the mark with campaigns that put conversions and ROI first.</p>
             </div>
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/seo-work.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/seo-work.png" width="100%" height="auto">
             <div class="white-box">
               <p><b>Need a PPC expert to review your AdWords account?</b><br> Just pop us a quick <i class="far fa-envelope-open"></i> to <a href="mailto:hello@seedpublicity.co.uk">hello@seedpublicity.co.uk</a></p>
             </div>

@@ -45,34 +45,34 @@
       </div>
        <div class="container top-space space service-list">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/facebook-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/facebook-logo.png" width="100px" height="100px">
            <h5><b>Facebook Advertising</b></h5>
            <p>We target users by gender, age, location, interests, relationship status, occupation, education and more to get your brand in front of your audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/instagram-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/instagram-logo.png" width="100px" height="100px">
            <h5><b>Instagram Advertising</b></h5>
            <p>Whether it's announcing a new product, driving app downloads or purchases, Instagram Ads are proven to reach and engage your audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/twitter-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/twitter-logo.png" width="100px" height="100px">
            <h5><b>Twitter Advertising</b></h5>
            <p>Increase engagements, followers and audience reach by promoting your best content to an audience of 330 million active users.</p>
          </div>
        </div>
        <div class="container service-list">
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/linkedin-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/linkedin-logo.png" width="100px" height="100px">
            <h5><b>LinkedIn Advertising</b></h5>
            <p>LinkedIn offers its own paid advertising platform and is a superb way to get B2B products/services in front of a highly targeted audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/youtube-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/youtube-logo.png" width="100px" height="100px">
            <h5><b>YouTube Advertising</b></h5>
            <p>Boasting 4 billion views worldwide each day, YouTube provides an effective, low-cost advertising platform for showcasing your brand to a large audience.</p>
          </div>
          <div class="one-third column service-block">
-           <img src="/wp-content/themes/seed-theme-18/images/pinterest-logo.png" width="100px" height="100px">
+           <img src="/wp-content/themes/seed/images/pinterest-logo.png" width="100px" height="100px">
            <h5><b>Pinterest Promotions</b></h5>
            <p>We create new pages and make sure that your website has the best chance of converting your visitors into a happy, fulfilled customers.</p>
          </div>
@@ -90,7 +90,7 @@
               <p>We help you develop intelligent and effective paid social strategies that drive engagements and leads for your business.</p>
               <p>Paid Social lets us reach your audience with targeted and relevant ads at the right time. We use data and insight to optimise our targeting which helps us convert more users into lifelong customers and advocates for your brand.</p>
             </div>
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/starting-out.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/starting-out.png" width="100%" height="auto">
             <div class="white-box">
               <h3>Our bespokse approach to social media advertsing</h3>
               <p>Although our bespoke paid social campaigns are designed with the objectives of each individual business in mind, our Social Advertising services have been refined over years of delivering top-performing campaigns for our clients.</p>
@@ -104,7 +104,7 @@
             </div>
           </div>
           <div class="one-half column">
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/social-media.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/social-media.png" width="100%" height="auto">
             <div class="white-box space">
               <h3>Is social media advertising right for your business?</h3>
               <p>Thinking about <b>social media advertising</b> for your brand? Let us throw some stats your way...</p>
@@ -118,7 +118,7 @@
               <p>Social media has well and truly changed the world of online marketing, and paid social media is at the very heart of that change.</p>
               <p>Organic social media activity will only get you so far. So, to compete for attention, social media advertising must be a key tactic in your social media strategy.</p>
             </div>
-            <img class="space" src="/wp-content/themes/seed-theme-18/images/social-media-2.png" width="100%" height="auto">
+            <img class="space" src="/wp-content/themes/seed/images/social-media-2.png" width="100%" height="auto">
             <div class="white-box">
               <p><b>Need help developing a winning social media strategy?</b><br> Just pop us a quick <i class="far fa-envelope-open"></i> to <a href="mailto:hello@seedpublicity.co.uk">hello@seedpublicity.co.uk</a></p>
             </div>
