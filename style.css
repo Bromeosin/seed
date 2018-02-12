@@ -1454,7 +1454,7 @@ blockquote {
 @media (max-width: 550px) {
   .index-element,
   .index-sizer {
-    width: calc(100% - 40px); } }
+    width: calc(100%); } }
 
 .index-element {
   float: left;
