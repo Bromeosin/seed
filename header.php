@@ -27,8 +27,8 @@
   <!-- JS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <script src="/wp-content/themes/seed-theme-18/js/isotope.js"></script>
-  <script src="/wp-content/themes/seed-theme-18/js/base.js"></script>
+  <script src="/wp-content/themes/seed/js/isotope.js"></script>
+  <script src="/wp-content/themes/seed/js/base.js"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40911536-1"></script>
@@ -42,11 +42,11 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="/wp-content/themes/seed-theme-18/style.css">
+  <link rel="stylesheet" href="/wp-content/themes/seed/style.css">
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="wp-content/themes/seed-theme-18/images/favicon.png">
+  <link rel="icon" type="image/png" href="wp-content/themes/seed/images/favicon.png">
 
 </head>
 <body>
@@ -56,7 +56,7 @@
 
   <div class="nav">
     <div class="container">
-    <a href="/"><img class="nav-logo" alt="Seed Academy Logo" title="Seed Publicity Logo" src="/wp-content/themes/seed-theme-18/images/logo.png" width="100" height="auto" ></a>
+    <a href="/"><img class="nav-logo" alt="Seed Academy Logo" title="Seed Publicity Logo" src="/wp-content/themes/seed/images/logo.png" width="100" height="auto" ></a>
       <ul class="navbar-list">
         <li class="navbar-item"><a href="/about/">Agency</a></li>
         <li class="navbar-item"><a href="/services/">What we do</a></li>

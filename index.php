@@ -45,19 +45,19 @@
     </div>
     <div class="container service-list">
       <div class="one-third column service-block">
-        <img src="wp-content/themes/seed-theme-18/images/seo.svg" width="100px" height="100px">
+        <img src="wp-content/themes/seed/images/seo.svg" width="100px" height="100px">
         <h5><b>Search Engine Marketing</b></h5>
         <p>Your customers are searching – we help them find your business. Get found online with our unrivalled SEO services.</p>
         <a href="/services/seo/" class="button button-primary">Learn more</a>
       </div>
       <div class="one-third column service-block">
-        <img src="wp-content/themes/seed-theme-18/images/ppc.svg" width="100px" height="100px">
+        <img src="wp-content/themes/seed/images/ppc.svg" width="100px" height="100px">
         <h5><b>Pay Per Click</b></h5>
         <p>We offer a super-targeted approach to PPC, designed to maximise conversions and minimise budget wastage.</p>
         <a href="/services/ppc/" class="button button-primary">Learn more</a>
       </div>
       <div class="one-third column service-block">
-        <img src="wp-content/themes/seed-theme-18/images/social.svg" width="100px" height="100px">
+        <img src="wp-content/themes/seed/images/social.svg" width="100px" height="100px">
         <h5><b>Social Media Advertising</b></h5>
         <p>Maximise your brand's reach with your audience, driving engagements and ROI for your business.</p>
         <a href="/services/social/"><a class="button button-primary">Learn more</a>
@@ -152,17 +152,17 @@
   </div>
   <div class="container service-list">
     <div class="one-third column service-block">
-      <img src="wp-content/themes/seed-theme-18/images/specialised.svg" width="100px" height="auto">
+      <img src="wp-content/themes/seed/images/specialised.svg" width="100px" height="auto">
       <h3><b>Specialised</b></h3>
       <p>Since day one we've focused exclusively on SEO, PPC and Social, so we've become pretty good at it!</p>
     </div>
     <div class="one-third column service-block">
-      <img src="wp-content/themes/seed-theme-18/images/passion.svg" width="auto" height="100px">
+      <img src="wp-content/themes/seed/images/passion.svg" width="auto" height="100px">
       <h3><b>Passionate</b></h3>
       <p>We approach every project with the same burning desire to exceed expectations and achieve big results.</p>
     </div>
     <div class="one-third column service-block">
-      <img src="wp-content/themes/seed-theme-18/images/scalable.svg" width="100px" height="auto">
+      <img src="wp-content/themes/seed/images/scalable.svg" width="100px" height="auto">
       <h3><b>Scalable</b></h3>
       <p>As your business needs grow, our service can grow with you. We invest in you as much as you invest in us.</p>
     </div>
@@ -191,22 +191,22 @@
     <div class="row light grey client-grid short-stack">
       <div class="container gridlet">
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/sworkit.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/sworkit.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/act.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/act.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/wob.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/wob.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/eddie-stobart.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/eddie-stobart.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/holmes.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/holmes.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="/wp-content/themes/seed-theme-18/images/said-business.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed/images/said-business.png" width="100%" height="auto"/>
         </div>
       </div>
     </div>
