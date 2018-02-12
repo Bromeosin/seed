@@ -191,22 +191,22 @@
     <div class="row light grey client-grid short-stack">
       <div class="container gridlet">
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/sworkit.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/sworkit.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/act.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/act.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/wob.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/wob.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/eddie-stobart.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/eddie-stobart.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/holmes.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/holmes.png" width="100%" height="auto"/>
         </div>
         <div class="two columns">
-            <img src="wp-content/themes/seed-theme-18/images/said-business.png" width="100%" height="auto"/>
+            <img src="/wp-content/themes/seed-theme-18/images/said-business.png" width="100%" height="auto"/>
         </div>
       </div>
     </div>
