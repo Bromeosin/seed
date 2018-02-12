@@ -1898,17 +1898,24 @@ blockquote {
       .overlay.open li:nth-of-type(3) {
         animation-delay: .50s; }
       .overlay.open li:nth-of-type(4) {
-        animation-delay: .55s;
+        animation-delay: .55s; }
+      .overlay.open li:nth-of-type(5) {
+        animation-delay: .60s; }
+      .overlay.open li:nth-of-type(6) {
+        animation-delay: .65s;
         margin-bottom: 0rem;
         font-size: null; }
   .overlay nav {
     position: relative;
     height: 70%;
-    top: 50%;
+    top: 44%;
     transform: translateY(-25%);
     font-size: 30px;
     font-weight: 400;
     text-align: center; }
+  @media (max-width: 350px) {
+    .overlay nav {
+      top: 38%; } }
   .overlay .navbar-button {
     padding-top: 0rem; }
   .overlay ul {

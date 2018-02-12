@@ -198,6 +198,12 @@ $button-width: 35px;
       }
       &:nth-of-type(4) {
         animation-delay: .55s;
+      }
+      &:nth-of-type(5) {
+        animation-delay: .60s;
+      }
+      &:nth-of-type(6) {
+        animation-delay: .65s;
         margin-bottom: 0rem;
         font-size: null;
       }
@@ -207,11 +213,17 @@ $button-width: 35px;
   nav {
     position: relative;
     height: 70%;
-    top: 50%;
+    top: 44%;
     transform: translateY(-25%);
     font-size: 30px;
     font-weight: 400;
     text-align: center;
+  }
+
+  @media (max-width: 350px) {
+    nav {
+      top: 38%;
+    }
   }
 
 .navbar-button {
@@ -249,6 +261,7 @@ $button-width: 35px;
     }
   }
 }
+
 
 @keyframes fadeInRight {
   0% {
