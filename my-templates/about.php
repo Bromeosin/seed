@@ -138,7 +138,7 @@
         <img class="space" src="/wp-content/themes/seed-theme-18/images/first-office.png" width="100%" height="auto">
         <div class="white-box">
           <h3>Growing Seed</h3>
-          <p>Since moving to Brighton we've grown our company considerably. New team members have joined Seed and we've had the privilage of working closely with some of the UK's leading brands.</p>
+          <p>Since moving to Brighton we've grown our company considerably. New team members have joined Seed and we've had the privilege of working closely with some of the UK's leading brands.</p>
           <p>We’re a mixed bunch at Seed; coffee-junkies, early risers, night owls, health fanatics, tech geeks. And although we’re different, we’re all open-minded, passionate about digital marketing and fundamentally respect one another.</p>
         </div>
       </div>
